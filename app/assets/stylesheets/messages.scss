@@ -6,3 +6,12 @@
   border: 1px solid #f00;
   width: 100%;
 }
+#message_age {
+  width: 16%;
+}
+.f-age .field_with_errors {
+  width: 16%;
+}
+.field_with_errors #message_age {
+  width: 100%;
+}
